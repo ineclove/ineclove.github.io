@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ineclove.github.io/sitemap.xml

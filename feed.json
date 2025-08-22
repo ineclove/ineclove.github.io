@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "인보자연숲교육센터",
+    "description": "",
+    "home_page_url": "https://ineclove.github.io",
+    "feed_url": "https://ineclove.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "인보자연숲교육센터"
+    },
+    "items": [
+    ]
+}
