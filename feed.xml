@@ -3,10 +3,22 @@
     <title>인보자연숲교육센터</title>
     <link href="https://ineclove.github.io/feed.xml" rel="self" />
     <link href="https://ineclove.github.io" />
-    <updated>1970-01-01T09:00:00+09:00</updated>
+    <updated>2025-08-22T14:41:19+09:00</updated>
     <author>
         <name>인보자연숲교육센터</name>
     </author>
     <id>https://ineclove.github.io</id>
 
+    <entry>
+        <title>introduction</title>
+        <author>
+            <name>인보자연숲교육센터</name>
+        </author>
+        <link href="https://ineclove.github.io/introduction.html"/>
+        <id>https://ineclove.github.io/introduction.html</id>
+
+        <updated>2025-08-22T14:41:19+09:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
